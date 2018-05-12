@@ -1,0 +1,42 @@
+_repo: Sutherland-and-Caithness-in-Saga-Timeor-The-Jarls-and-The-Freskyns_15856
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gray, James
+    birthdate: 1856
+    gutenberg_agent_id: '6341'
+    url: http://www.gutenberg.org/2009/agents/6341
+description: '"This study deals with the portions of the three great Norse sagas which
+  relate to the extreme north end of the mainland of Scotland--Orkneyinga, St. Magnus,
+  and Hakon''s--and incorporates them with the scanty extant English and Scottish
+  records to form a connected account, from the Scottish point of view, of the Norse
+  occupations of most of the more fertile parts of Sutherland and Caithness from its
+  beginning about 870 until its close, when these counties, along with the Hebrides,
+  were incorporated into the kingdom of Scotland by treaty with Norway in 1266. Gray
+  begins with a brief look at the Picts and the Northmen, and then moves on to a study
+  of life under the Norse Jarls. There is extensive material on the families of: Duffus,
+  Freskyn de Moravia, Gunn, Innes, Mackay, Oliphant, Ross, and Sutherland. Chapters
+  include: The Early Norse Jarls; Thorfinn, Earl and Jarl; Paul and Erlend, Hakon
+  and Magnus; The Moddan Family; Harold Maddadson and the Freskyns; Jarls David and
+  John, Freskin II; The Succession to the Caithness Earldom; King Hakon''s Expedition
+  and the North; and Results and Conclusions. There is as well a pedigree chart of
+  the Freskyn family, and a full-color map of the region"--Container.'
+gutenberg_issued: '2005-05-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15856'
+  lccn: '24011651'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sutherland (Scotland) -- History'
+- !lcc 'DA'
+- !lcsh 'Freskin family'
+- !lcsh 'Caithness (Scotland) -- History'
+title: Sutherland and Caithness in Saga-Time; or, The Jarls and The Freskyns
+url: http://www.gutenberg.org/ebooks/15856
